@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FAF9F6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDDA57&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+My+name+is+Igor+Babler+Cabral;I'm+24+years+old;I'm+from+Brazil+São+Paulo;DEV+and+Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 

@@ -13,7 +13,7 @@
 
 ### 
 
-<div> <p> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSkills:
+<div> <p> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSkills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="43" />
@@ -24,14 +24,14 @@
 </p> </div> 
 
 ##
-<p>About meㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSobre Mim<br>
-My greatest strengths lieㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMinhas maiores qualidades se encontram na<br>
-in the detailed analysis of the projectsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤanálise detalhada dos projetos em que me<br>
- I am involved in, always maintainingㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤenvolvo, sempre mantendo uma mentalidade<br>
-a mindset focused on optimization andㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤfocada na otimização e na melhoria contínua<br>
-continuous quality improvement.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤda qualidade. Busco identificar pontos de<br>
-I strive to identify areas for enhancementㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaprimoramento para garantir resultados mais<br>
-to ensure more efficient and effective results.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤeficientes e eficazes.</p>
+<p>About meㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSobre Mim<br>
+My main goals are always centered onㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMeus maiores objetivos sempre se encontram<br>
+conducting a detailed analysis of the projectsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤem obter uma análise detalhada dos projetos<br>
+ I am involved in, always maintainingㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤem que me envolvo, sempre mantendo uma<br>
+a mindset focused on optimization andㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤmentalidade focada na otimização e na <br>
+continuous quality improvement.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤmelhoria contínua da qualidade. Busco <br>
+I strive to identify areas for enhancementㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤidentificar pontos de aprimoramento para <br>
+to ensure more efficient and effective results.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤgarantir resultados mais eficientes e eficazes.</p>
 
 
 

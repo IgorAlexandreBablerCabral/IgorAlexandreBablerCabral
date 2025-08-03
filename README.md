@@ -21,10 +21,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45"/>
 </h1> </div> 
-##
-My Goals <p>My main goals are always centered on conducting a detailed analysis of the projects I am involved in, aiming for greater efficiency in developing new optimizations and implementing quality improvements throughout the project.</p>
 
-Meus Objetivos <p>Meus maiores objetivos sempre se encontram em obter uma análise detalhada dos projetos em que me envolvo, visando um maior aproveitamento no desenvolvimento de novas otimizações e na aplicação de melhorias de qualidade no projeto.</p>
+
+<h3>My Goals</h3> <p>My main goals are always centered on conducting a detailed analysis of the projects I am involved in, aiming for greater efficiency in developing new optimizations and implementing quality improvements throughout the project.</p>
+
+<h3>Meus Objetivos</h3> <p>Meus maiores objetivos sempre se encontram em obter uma análise detalhada dos projetos em que me envolvo, visando um maior aproveitamento no desenvolvimento de novas otimizações e na aplicação de melhorias de qualidade no projeto.</p>
 
 
 

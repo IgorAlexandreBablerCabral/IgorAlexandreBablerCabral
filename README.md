@@ -1,4 +1,3 @@
-
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6699FF&height=120&section=header"/>
 
@@ -11,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CCE5FF&size=35&center=true&vCenter=true&width=1000&lines=Hej,+Mitt+namn+är+Igor+Babler+Cabral;jag+är+24+år+gammal;jag+är+från+São+Paulo+Brasilien;Utvecklare+och+Data+Scientist;Välkommen!+:%29)](https://git.io/typing-svg)
 
-### 
+##
 
 <div> <h2 align="center">Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" /> 
@@ -22,7 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45"/>
 </h1> </div> 
-
 ##
 My Goals <p>My main goals are always centered on conducting a detailed analysis of the projects I am involved in, aiming for greater efficiency in developing new optimizations and implementing quality improvements throughout the project.</p>
 

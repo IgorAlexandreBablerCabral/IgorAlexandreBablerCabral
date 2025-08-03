@@ -24,14 +24,9 @@
 </p> </div> 
 
 ##
-<p>About meㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSobre Mim<br>
-My main goals are always centered onㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMeus maiores objetivos sempre se encontram<br>
-conducting a detailed analysis of the projectsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤem obter uma análise detalhada dos projetos<br>
- I am involved in, always maintainingㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤem que me envolvo, sempre mantendo uma<br>
-a mindset focused on optimization andㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤmentalidade focada na otimização e na <br>
-continuous quality improvement.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤmelhoria contínua da qualidade. Busco <br>
-I strive to identify areas for enhancementㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤidentificar pontos de aprimoramento para <br>
-to ensure more efficient and effective results.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤgarantir resultados mais eficientes e eficazes.</p>
+My Goals <p>My main goals are always centered on conducting a detailed analysis of the projects I am involved in, aiming for greater efficiency in developing new optimizations and implementing quality improvements throughout the project.</p>
+
+Meus Objetivos <p>Meus maiores objetivos sempre se encontram em obter uma análise detalhada dos projetos em que me envolvo, visando um maior aproveitamento no desenvolvimento de novas otimizações e na aplicação de melhorias de qualidade no projeto.</p>
 
 
 

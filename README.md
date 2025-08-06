@@ -28,6 +28,8 @@
 <h3>My Goals</h3> <p>My main goals are always centered on conducting a detailed analysis of the projects I am involved in, aiming for greater efficiency in developing new optimizations and implementing quality improvements throughout the project.</p>
 
 <h3>Meus Objetivos</h3> <p>Meus maiores objetivos sempre se encontram em obter uma análise detalhada dos projetos em que me envolvo, visando um maior aproveitamento no desenvolvimento de novas otimizações e na aplicação de melhorias de qualidade no projeto.</p>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAlexandreBablerCabral&show_icons=true)
 
 
 

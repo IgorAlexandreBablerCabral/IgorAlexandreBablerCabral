@@ -38,7 +38,7 @@ src="https://github-readme-stats.vercel.app/api?username=IgorAlexandreBablerCabr
 </p>
 <p>
 <img 
-align="right"
+align="left"
 height="200"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAlexandreBablerCabral&layout=compact&theme=cobalt&include"
 </p>

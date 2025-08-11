@@ -29,7 +29,27 @@
 
 <h3>Meus Objetivos</h3> <p>Meus maiores objetivos sempre se encontram em obter uma análise detalhada dos projetos em que me envolvo, visando um maior aproveitamento no desenvolvimento de novas otimizações e na aplicação de melhorias de qualidade no projeto.</p>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAlexandreBablerCabral&show_icons=true&theme=tokyonight&include_all_comm&locale=pt-br)
+<div>
+<p>
+<img 
+align="left"
+height="200"
+src="https://github-readme-stats.vercel.app/api?username=IgorAlexandreBablerCabral&show_icons=true&theme=cobalt&include_all_comm&locale=pt-br")>
+</p>
+<p>
+<img 
+align="right"
+height="200"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAlexandreBablerCabral&layout=compact&theme=cobalt&include"
+</p>
+</div>
+
+
+
+
+
+ 
+
 
 
 

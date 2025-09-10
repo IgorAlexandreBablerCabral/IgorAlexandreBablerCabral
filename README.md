@@ -22,7 +22,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" />
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="48"/>
-</h1> </div> 
+</h2></div> 
+<div> <h2 align="center">Click the logo for my LinkedIn:
+<a href="https://www.linkedin.com/in/igor-alexandre-babler-cabral-387a83205/" target="_blank"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/> 
+ </a>
+ </h2></div>
 
 
 <h3>My Goals</h3> <p>My main goals are always centered on conducting a detailed analysis of the projects I am involved in, aiming for greater efficiency in developing new optimizations and implementing quality improvements throughout the project.</p>
